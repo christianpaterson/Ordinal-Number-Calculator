@@ -31,15 +31,6 @@ function ordinalNumber(n) {
   }
 }
 
-ordinalNumber(num1);
-ordinalNumber(num2);
-ordinalNumber(num3);
-ordinalNumber(num4);
-ordinalNumber(num5);
-ordinalNumber(num6);
-
-console.log("");
-
 console.log(`let num1 = 987654311;
 let num2 = 987654312;
 let num3 = 987654313;
@@ -72,3 +63,13 @@ function ordinalNumber(n) {
     console.log(n + "th")
   }
 }`);
+
+console.log("");
+console.log("");
+
+ordinalNumber(num1);
+ordinalNumber(num2);
+ordinalNumber(num3);
+ordinalNumber(num4);
+ordinalNumber(num5);
+ordinalNumber(num6);
