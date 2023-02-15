@@ -11,9 +11,7 @@ function getLastDigit(n) {
 }
 
 let secondLastDigit = 0;
-function getSecondLastDigit(n) {
-  secondLastDigit = Number(n.toString().slice(-2, -1));
-}
+function getSecondLastDigit(n) {secondLastDigit = Number(n.toString().slice(-2, -1));}
 
 function ordinalNumber(n) {
 
@@ -64,6 +62,7 @@ function ordinalNumber(n) {
   }
 }`);
 
+console.log("");
 console.log("");
 console.log("");
 
