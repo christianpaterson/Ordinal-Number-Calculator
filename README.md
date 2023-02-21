@@ -9,6 +9,7 @@ The challenge was to build an ordinal number calculator with JavaScript
 ## Technologies used to create the project 
 
 <ul>
+<li>VSCode</li>
 <li>HTML5</li>
 <li>CSS</li>
 <li>JavaScript</li>
