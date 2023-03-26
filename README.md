@@ -10,7 +10,7 @@ The challenge was to build an ordinal number calculator with JavaScript!
 
 <ul>
 <li>VSCode</li>
-<li>HTML5</li>
+<li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
 <li>GIT</li>
