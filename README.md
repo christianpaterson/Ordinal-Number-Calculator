@@ -13,6 +13,5 @@ The challenge was to build an ordinal number calculator with JavaScript!
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-<li>GIT</li>
-<li>GITHUB</li>
+<li>GIT & GITHUB</li>
 </ul>
