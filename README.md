@@ -6,7 +6,7 @@ Live webpage can be viewed at: https://christianpaterson.github.io/Ordinal-Numbe
 
 The challenge was to build an ordinal number calculator with JavaScript!
 
-## Technologies used to create the project 
+## Technologies used to create the project
 
 <ul>
 <li>VSCode</li>
@@ -15,5 +15,4 @@ The challenge was to build an ordinal number calculator with JavaScript!
 <li>JavaScript</li>
 <li>GIT</li>
 <li>GITHUB</li>
-<li>Chrome developer tools</li>
 </ul>
