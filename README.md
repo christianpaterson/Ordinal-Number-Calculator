@@ -5,7 +5,7 @@ Live webpage can be viewed at: https://christianpaterson.github.io/Ordinal-Numbe
 ## The challenge
 
 <p>The challenge was to build an ordinal number calculator with JavaScript!</p>
-<p>You type a number, and I define its' position in a series, such as “first,” “second,” or “third.”</p>
+<p>You type a number, and I define its' position such as “first,” “second,” or “third.”</p>
 
 ## Technologies used to create the project
 
