@@ -7,8 +7,7 @@ Live webpage can be viewed at: https://christianpaterson.github.io/Ordinal-Numbe
 <p>The challenge was to build an ordinal number calculator with JavaScript!</p>
 <p>You type a number, and I'll programmatically define its' ordinal position.</p>
 <p>Learning to use the command line is so fun!!</p>
-<br>
-<h3>Git Best Practices</h3>
+<h4>Git Best Practices</h4>
 <ul>
     <li>Always make Atomic Commits, or commits relating to only one feature at a time</li>
     <li>Always try to use the command line, rather than your GUI</li>
